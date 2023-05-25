@@ -1,5 +1,5 @@
 -                        https://github.com/Doomerism694/Doomerism
-                                       ### SETTING UP
+- FEATURES
 - 
 - edit file: ``Doomerism.py`` replace ``WEBHOOK_HERE`` with your webhook link "WEBHOOK_HERE"
 - 
