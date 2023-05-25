@@ -1,4 +1,4 @@
 @echo off
-title 
+title Doomerism on top
 py Doomerism.py
-pip install auto_py_to_exe
+python -m auto_py_to_exe
