@@ -9,7 +9,7 @@
 
 - now you want to make it an exe 
 
-- open ``Py_to_exe.bat``
+- open ``py_to_exe.bat``
 
 ![Capture](https://github.com/Doomerism694/Doomerism/assets/134610580/d24d8bf1-791a-4d92-bd64-7511e2a4c639)
 -                        https://github.com/Doomerism694/Doomerism
